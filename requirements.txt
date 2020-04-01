@@ -61,12 +61,10 @@ PyQt5==5.14.1
 PyQt5-sip==12.7.1
 pyrsistent==0.15.6
 PySimpleGUI==4.18.0
-pyspark==2.4.4
 pytesseract==0.3.3
 python-dateutil==2.8.0
 python-launch-library==0.6
 pytz==2019.3
-pywin32==227
 pywinpty==0.5.7
 pyzmq==18.1.1
 qtconsole==4.6.0
