@@ -19,6 +19,7 @@ def respond():
     reply= reply(msg,phone_no)
     resp.message(reply)
 
+    #Basic echo
     resp = MessagingResponse()
     resp.message("You said: {}".format(msg))
 
